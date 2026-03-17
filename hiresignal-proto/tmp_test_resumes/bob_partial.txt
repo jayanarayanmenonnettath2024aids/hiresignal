@@ -1,0 +1,10 @@
+Bob Smith
+EXPERIENCE
+Java Developer ? OldBank Corp (2021-2024) ? 3 years
+  - Developed Spring Boot REST APIs
+  - Used MySQL for data storage
+  - Basic Python scripting for automation
+SKILLS
+Java, Spring Boot, MySQL, Python (basic), REST APIs, Maven
+EDUCATION
+B.E. Information Technology ? Anna University (2021)

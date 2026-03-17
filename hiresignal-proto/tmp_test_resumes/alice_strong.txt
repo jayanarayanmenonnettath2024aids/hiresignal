@@ -1,0 +1,13 @@
+Alice Johnson
+alice@example.com | +1-555-0101
+EXPERIENCE
+Senior Python Engineer ? TechCorp (2019-2024) ? 5 years
+  - Built FastAPI microservices serving 10M requests/day
+  - Designed PostgreSQL schemas, optimized queries
+  - Containerized all services with Docker and Kubernetes
+  - Managed Redis caching layer reducing DB load by 60%
+  - CI/CD pipelines with GitHub Actions and Jenkins
+SKILLS
+Python, FastAPI, PostgreSQL, Docker, Kubernetes, Redis, AWS, React, Git, SQLAlchemy, Celery
+EDUCATION
+B.Tech Computer Science ? IIT Bombay (2019)

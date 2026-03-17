@@ -1,0 +1,7 @@
+Max Power
+python python python fastapi fastapi postgresql postgresql docker kubernetes redis aws react git celery
+python python python fastapi fastapi postgresql postgresql docker kubernetes redis aws react git celery
+python python python fastapi fastapi postgresql postgresql docker kubernetes redis aws react git celery
+EXPERIENCE
+Python Developer ? SomeCorp (2023-2024)
+  - Used Python for development
