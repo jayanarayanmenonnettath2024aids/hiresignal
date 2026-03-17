@@ -34,6 +34,7 @@ export interface SingleScreenRequest {
 }
 
 export interface SingleScreenResponse {
+  filename: string
   final_score: number
   score_semantic: number
   score_tfidf: number
@@ -42,7 +43,10 @@ export interface SingleScreenResponse {
   matched_skills: string[]
   missing_skills: string[]
   years_experience_detected?: number
+  language_detected: string
+  extraction_quality: 'good' | 'ocr_used' | 'poor'
   flags: Record<string, boolean>
+  processing_ms?: number
 }
 
 export interface FeedbackCreate {

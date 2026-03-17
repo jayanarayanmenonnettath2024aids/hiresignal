@@ -18,4 +18,4 @@ RUN npm install -g http-server
 COPY --from=builder /app/dist ./dist
 
 EXPOSE 5173
-CMD ["http-server", "dist", "-p", "5173"]
+CMD ["http-server", "dist", "-p", "5173", "--spa"]
